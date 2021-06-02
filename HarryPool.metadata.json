@@ -2,5 +2,6 @@
   "name": "HARRYPOOL",
   "description": "CARDANO COOLEST POOL",
   "ticker": "HPOOL",
-  "homepage": "https://git.io/JG2dB"
+  "homepage": "https://git.io/JG2dB",
+  "extended": "https://git.io/JG2dB/HarryPool.extended.json"
 }
